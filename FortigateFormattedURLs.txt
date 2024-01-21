@@ -1,0 +1,40 @@
+﻿edit 34.102.136.180:2086
+set type fqdn
+set fqdn 34.102.136.180:2086
+next
+edit 34.102.136.180
+set type fqdn
+set fqdn 34.102.136.180
+next
+edit 34.102.136.180:443
+set type fqdn
+set fqdn 34.102.136.180:443
+next
+edit queentree.net
+set type fqdn
+set fqdn queentree.net
+next
+edit winterwheat.net
+set type fqdn
+set fqdn winterwheat.net
+next
+edit queenmark.net
+set type fqdn
+set fqdn queenmark.net
+next
+edit eveningschool.net
+set type fqdn
+set fqdn eveningschool.net
+next
+edit www.vebi.it
+set type fqdn
+set fqdn www.vebi.it
+next
+edit hideuri.com
+set type fqdn
+set fqdn hideuri.com
+next
+edit bit.ly
+set type fqdn
+set fqdn bit.ly
+next

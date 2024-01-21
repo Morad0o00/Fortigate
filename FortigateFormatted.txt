@@ -1,0 +1,36 @@
+﻿edit 34.102.136.180
+set subnet 34.102.136.180/32
+next
+edit 169.239.129.108
+set subnet 169.239.129.108/32
+next
+edit 148.251.248.121
+set subnet 148.251.248.121/32
+next
+edit 155.133.129.191
+set subnet 155.133.129.191/32
+next
+edit 92.52.217.239
+set subnet 92.52.217.239/32
+next
+edit 192.185.145.181
+set subnet 192.185.145.181/32
+next
+edit 92.52.217.60
+set subnet 92.52.217.60/32
+next
+edit 209.85.216.52
+set subnet 209.85.216.52/32
+next
+edit 209.85.218.44
+set subnet 209.85.218.44/32
+next
+edit 203.124.41.30
+set subnet 203.124.41.30/32
+next
+edit 209.85.215.176
+set subnet 209.85.215.176/32
+next
+edit 209.85.208.53
+set subnet 209.85.208.53/32
+next
